@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_241"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/stanford-parser-3.2.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/SAFAR_v2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/org.eclipse.fx.ide.css.jfx8_3.0.0.201705220750_2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/org.eclipse.fx.ide.css.jfx8_3.0.0.201705220750.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/org.eclipse.fx.ide.css.jfx8_2.1.0.201508240705.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/motaz-stemmer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/MADAMIRA-release-20140825-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/lucene-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/khojastemmer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/jython-standalone-2.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/jdom-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/ArabicAnalyzer-1.0b.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Younes/Desktop/Text_Mining/Document_Juge_lib/AlKhalil.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
